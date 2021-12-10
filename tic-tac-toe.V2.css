@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(to right, #7a1b0c, #52170b);
+}
+
+input{
+    margin: 10px;
+    width: 160px;
+    height: 160px;
+    font: 100px normal Arial;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+}
+
+input:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
+
+
+h1{
+    font: 100px normal Arial;
+    text-align: center;
+    text-shadow: 2px 2px white;
+}
+
+div#button{
+    position: absolute; top: 25px; left: 25px;
+}
+
+div#placar{
+    position: absolute; top: 100px; right: 150px;
+    font: 45px normal Arial;
+    color: black;
+    text-shadow: 2px 2px white;
+}
+
+div#reiniciar{
+    position: absolute; top: 275px; right: 135px;
+    text-shadow: 2px 2px white;
+    
+}
