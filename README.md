@@ -1,5 +1,5 @@
-# Projects
-Projetos em desenvolvimento.
+# Jogo_da_Velha
+Projeto em finalizado/desenvolvimento.
 
 Tentativa de realizar o jogo da velha apenas com os conhecimentos básicos adquiridos até agora.
 
